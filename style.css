@@ -1,0 +1,32 @@
+body {
+  height: 100%;
+  background: url(Red%20background%20book.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #00001a;
+}
+
+#quote-box {
+  border-radius:10px;
+  background-color:#f9f9eb;
+  margin-top: 10%;
+  padding: 20px 40px 20px 40px;
+}
+
+#quote-icon {
+	background: #F5F5DC;
+	border: 1px solid #DCDCC3;
+	padding: 15px 15px;
+	border-radius: 100%;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+}
+
+.fas, .fab {
+	color: #43432A; 
+}
+
+footer {
+  margin-top: 10px;
+  color: #f9f9eb;
+}
