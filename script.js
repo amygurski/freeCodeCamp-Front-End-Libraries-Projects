@@ -116,7 +116,7 @@ $(document).ready(function() {
   
   //Tweet Quote
   $("#tweet-quote").on("click", function() {
-    $("#tweet-quote").attr("href", "http://twitter.com/intent/tweet?text=" + currentQuote + currentAuthor + "&via=amygurski4" + "&hashtags=booklover");
+    $("#tweet-quote").attr("href", "http://twitter.com/intent/tweet?text=" + currentQuote + currentAuthor + "&via=amylgurski" + "&hashtags=booklover");
   });
   
   function getRandomNumber() {
