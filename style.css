@@ -1,7 +1,7 @@
 body {
   height: 100%;
   background-color: #cc5e3d; /*set to orange while image loading */
-  background: url(Red%20background%20book.jpg) no-repeat center center fixed;
+  background: url(red-background-book.jpg) no-repeat center center fixed;
   background-size: cover;
   color: #00001a;
 }
